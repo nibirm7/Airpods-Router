@@ -168,3 +168,5 @@ Idgaf u can abuse my code lmao
 * Inspiration: the old “AirPodsSanity” idea—updated for modern macOS with a slick, glassy SwiftUI UI.
 
 P.S Im too broke for an apple dev account if someone wants to idk help make this a proper dmg lmk
+
+If you cannot figure it out ask chatgpt how to allow the app to run without apple developer account signature its pretty easy but yea
