@@ -1,0 +1,91 @@
+# ==============================
+# macOS / Xcode / Swift App
+# ==============================
+
+# Build artifacts
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Distribution outputs
+dist/
+*.dmg
+*.pkg
+*.zip
+
+# Logs & caches
+*.log
+*.DS_Store
+*.swp
+*.swo
+*.lock
+*.tmp
+*.bak
+*.old
+xcuserdata/
+*.xcuserstate
+*.xcdebugger
+
+# User-specific settings
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxuser
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+.Trashes
+._*
+
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Archives
+*.xcarchive
+*.ipa
+*.app.dSYM.zip
+*.dSYM
+
+# Temporary exports
+ExportOptions.plist
+*.mobileprovision
+
+# ==============================
+# Custom: AirPodsRouter Project
+# ==============================
+
+# Keep final .app and DMG out of git
+AirPodsRouter/build/
+AirPodsRouter/dist/
+AirPodsRouter.dmg
+AirPodsRouter.app
+
+# Ignore local settings
+*.plist
+UserInterfaceState.xcuserstate
+
+# IDE metadata
+.idea/
+.vscode/
